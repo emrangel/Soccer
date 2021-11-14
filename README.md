@@ -16,7 +16,7 @@ Ahora, para esclarecer la actualidad del FPC, propongo analizar 4 estadísticas,
 Puede que estos dos últimos no las hayan escuchado, pero son muy populares hoy en día (hasta FIFA 22 los usa).
 De manera muy simple, xG (o goles esperados) es la probabilidad de que un tiro resulte en un gol en función de las características de ese tiro y los eventos que lo llevaron. De igual forma, los xG de mi rival se convierten en mis xGA.
 
-<img src="https://media.giphy.com/media/8cyro9Vo2FNhZ5mucq/giphy.gif" width="1080" height="900" />
+<img src="https://media.giphy.com/media/8cyro9Vo2FNhZ5mucq/giphy.gif" width="900" height="700" />
 
 
 Ahora bien, revisemos el comportamiento de estas estadísticas en el torneo betplay clausura y analicemos que sucede.
