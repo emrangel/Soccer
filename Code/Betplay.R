@@ -1,17 +1,18 @@
 library(ggplot2)
 library(dplyr)
-
-library(gganimate)
-library(ggrepel)
 library(ggimage)
-library(readxl)
-library(ggalt)
-library(gridExtra)
+
 
 
 ##Saving 12.4 x 8.2 in image##
 help("geom_image")
 
+##Primero leer los data frames
+
+#equipos <- read.csv("C:/Users/Mateo/Desktop/Rstudio/Dislike/Fut/Soccer/Datos/equipos", row.names=1)
+#View(equipos)
+#Teams <- read.csv("C:/Users/Mateo/Desktop/Rstudio/Dislike/Fut/Soccer/Datos/Teams", row.names=1)
+#View(Teams)
 
 ##Gráfico xG y xGA mean
 {
