@@ -36,4 +36,4 @@ Y por ultimo, en el gráfico 3 trazamos dos líneas que determinan la media o el
 
 Hay varias cosas que valen la pena analizar y verificar cuando se obtienen datos y se visualizan, espero les haya gustado. En los siguientes artículos hablaremos sobre el estado de la liga colombiana en comparación a las otras Sudamericanas, cual ha sido el resultado
 
-El código en las carpetas ⚽⚽👀👀😊
+El código y los datos en las carpetas ⚽⚽👀👀�
